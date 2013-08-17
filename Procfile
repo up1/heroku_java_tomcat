@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* demo.tdd.executive.SearchController
+web: web: sh target/bin/webapp
