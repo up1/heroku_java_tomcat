@@ -1,4 +1,2 @@
-heroku_java_jetty
-=================
-
-Deploy java web application with Jetty on Heroku
+Deploy java web application on Heroku
+====================================
