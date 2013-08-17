@@ -1,1 +1,1 @@
-web:java -cp target/classes:target/dependency/* demo.tdd.executive.SearchController
+web: java -cp target/classes:target/dependency/* demo.tdd.executive.SearchController
