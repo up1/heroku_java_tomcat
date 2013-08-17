@@ -8,7 +8,9 @@
 </head>
 <body>
 
-<form action="/"></form>
+<form action="/search/memory">
+Barcode :: <input type="text" id="barcode" name="barcode"> <input type="submit" value="Search Product">
+</form>
 
 </body>
 </html>
